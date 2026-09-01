@@ -212,4 +212,4 @@ El bucle `while ($true)` mantiene la monitorización activa y `Start-Sleep` espe
 
 ## Licencia
 
-Puedes añadir aquí la licencia que quieras aplicar al script, por ejemplo MIT. Speedtest CLI pertenece a Ookla y está sujeto a sus propias condiciones de uso.
+Uso libre. Speedtest CLI pertenece a Ookla y está sujeto a sus propias condiciones de uso.
